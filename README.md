@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/landigf/LeetCode/tree/master/0001-two-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/landigf/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0792-number-of-matching-subsequences](https://github.com/landigf/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 ## Dynamic Programming
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/landigf/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0792-number-of-matching-subsequences](https://github.com/landigf/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 ## Binary Search
 |  |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/landigf/LeetCode/tree/master/0792-number-of-matching-subsequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/landigf/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
