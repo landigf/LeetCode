@@ -14,9 +14,7 @@ public:
             int i = l + (r-l)/2;
             long long curr = 0;
             curr += original[l-1] - original[0];
-            cout << curr<<", "; 
             curr += original[n] - original[r];
-            cout << curr<<", "; 
             curr += full[r] - full[i];
             res = max(res, curr);
             ++l; ++r;
