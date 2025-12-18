@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/landigf/LeetCode/tree/master/0164-maximum-gap) |
 | [0414-third-maximum-number](https://github.com/landigf/LeetCode/tree/master/0414-third-maximum-number) |
 | [0792-number-of-matching-subsequences](https://github.com/landigf/LeetCode/tree/master/0792-number-of-matching-subsequences) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/landigf/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/landigf/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/landigf/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/landigf/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/landigf/LeetCode/tree/master/0052-n-queens-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/landigf/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 <!---LeetCode Topics End-->
