@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/landigf/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/landigf/LeetCode/tree/master/0221-maximal-square) |
 | [0792-number-of-matching-subsequences](https://github.com/landigf/LeetCode/tree/master/0792-number-of-matching-subsequences) |
+| [0838-push-dominoes](https://github.com/landigf/LeetCode/tree/master/0838-push-dominoes) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/landigf/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/landigf/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0792-number-of-matching-subsequences](https://github.com/landigf/LeetCode/tree/master/0792-number-of-matching-subsequences) |
+| [0838-push-dominoes](https://github.com/landigf/LeetCode/tree/master/0838-push-dominoes) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/landigf/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0838-push-dominoes](https://github.com/landigf/LeetCode/tree/master/0838-push-dominoes) |
 ## Bucket Sort
 |  |
 | ------- |
