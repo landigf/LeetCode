@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/landigf/LeetCode/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/landigf/LeetCode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/landigf/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/landigf/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/landigf/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/landigf/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0164-maximum-gap](https://github.com/landigf/LeetCode/tree/master/0164-maximum-gap) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/landigf/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0063-unique-paths-ii](https://github.com/landigf/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/landigf/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/landigf/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/landigf/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/landigf/LeetCode/tree/master/0221-maximal-square) |
@@ -99,5 +101,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/landigf/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/landigf/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/landigf/LeetCode/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
