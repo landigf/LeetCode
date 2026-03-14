@@ -2,27 +2,23 @@ class Solution {
 public:
     vector<string> generateParenthesis(int n) {
         vector<string> res;
-        string cur;
-        backtrack(n, 0, 0, cur, res);
-        return res;
+        dfs(0, 0, "", n, res);
+        return res;        
     }
 
-    void backtrack(int n, int open, int close, string& cur, vector<string>& res) {
-        if (cur.size() == 2 * n) {
-            res.push_back(cur);
+private:
+    void dfs(int openP, int closeP, string s, int n, vector<string>& res) {
+        if (openP == closeP && openP + closeP == n * 2) {
+            res.push_back(s);
             return;
         }
 
-        if (open < n) {
-            cur.push_back('(');
-            backtrack(n, open + 1, close, cur, res);
-            cur.pop_back();
+        if (openP < n) {
+            dfs(openP + 1, closeP, s + "(", n, res);
         }
 
-        if (close < open) {
-            cur.push_back(')');
-            backtrack(n, open, close + 1, cur, res);
-            cur.pop_back();
+        if (closeP < openP) {
+            dfs(openP, closeP + 1, s + ")", n, res);
         }
     }
 };
