@@ -6,9 +6,8 @@ public:
         int cap = numRows*2 - 2;
         for(int i = 0; i < s.size(); ++i){
             int curr = i%cap;
-            cout << s[i] <<" - "<< curr<<"\n";
             if(curr < numRows) idx[curr] += s[i];
-            else idx[2*numRows - curr - 2] += s[i];
+            else idx[cap - curr] += s[i];
         }
 
         string res = idx[0];
