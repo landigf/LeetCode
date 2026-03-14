@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/landigf/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/landigf/LeetCode/tree/master/0022-generate-parentheses) |
 | [0063-unique-paths-ii](https://github.com/landigf/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/landigf/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/landigf/LeetCode/tree/master/0118-pascals-triangle) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/landigf/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/landigf/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/landigf/LeetCode/tree/master/0022-generate-parentheses) |
 | [0409-longest-palindrome](https://github.com/landigf/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/landigf/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/landigf/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/landigf/LeetCode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/landigf/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/landigf/LeetCode/tree/master/0052-n-queens-ii) |
 ## Prefix Sum
