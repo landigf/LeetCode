@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/landigf/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/landigf/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0792-number-of-matching-subsequences](https://github.com/landigf/LeetCode/tree/master/0792-number-of-matching-subsequences) |
+| [3822-design-order-management-system](https://github.com/landigf/LeetCode/tree/master/3822-design-order-management-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/landigf/LeetCode/tree/master/0622-design-circular-queue) |
+| [3822-design-order-management-system](https://github.com/landigf/LeetCode/tree/master/3822-design-order-management-system) |
 ## Queue
 |  |
 | ------- |
