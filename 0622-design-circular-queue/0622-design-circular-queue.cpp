@@ -37,13 +37,11 @@ public:
     }
     
     int Front() {
-        if(isEmpty()) return -1;
-        return myQueue[front_idx];
+        return isEmpty() ? -1 : myQueue[front_idx];
     }
     
     int Rear() {
-        if(isEmpty()) return -1;
-        return myQueue[idx];
+        return isEmpty() ? -1 : myQueue[idx];
     }
 };
 
